@@ -372,4 +372,6 @@ body {
   padding: 10px;
   background-color: var(--primary-color);
   box-shadow: var(--light-shadow-color) 0px 0px 10px;
+  color: var(--text-color);
+  font-size: 2rem;
 }
